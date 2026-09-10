@@ -1,50 +1,32 @@
-# PDF Accessibility Remediator — Desktop App (Windows)
+# Accessibility Remediator for Windows
 
-A free double-click Windows program that fixes common PDF accessibility
-problems toward **WCAG 2.1 AA** (the standard behind the DOJ Title II
-requirements). Built for people who are **not** technical — no Python, no
-command line, no account, no API key.
+Windows **2.0.0** includes a guided PDF and Microsoft Office accessibility workspace that runs offline, plus native Office-to-PDF conversion tools.
 
-## ⬇️ Download
+- [Download Windows installer](https://github.com/BelovedCoachP/pdf-remediator-app/releases/download/app-v2.0.0/Accessibility-Remediator-2.0.0-x64.exe)
+- [Download portable ZIP](https://github.com/BelovedCoachP/pdf-remediator-app/releases/download/app-v2.0.0/Accessibility-Remediator-2.0.0-x64.zip)
+- [Release notes and checksums](https://github.com/BelovedCoachP/pdf-remediator-app/releases/tag/app-v2.0.0)
+- [Use the browser version](https://pdf-remediate.lovable.app/)
 
-**[Download the app (.zip)](https://github.com/BelovedCoachP/pdf-remediator-app/releases/latest/download/PDF-Accessibility-Remediator-app.zip)**
+## What you can do
 
-Then:
-1. Unzip it anywhere (right-click → **Extract All**). Keep the folder together.
-2. Double-click **PDF Accessibility Remediator.exe**.
-3. If Windows shows "Windows protected your PC", click **More info → Run
-   anyway** (the app isn't code-signed; this is expected and safe).
-4. Add PDFs, tick the fixes you want, click **Remediate PDFs**.
+Review and repair PDFs, Word documents, PowerPoint presentations, and Excel workbooks. Work through plain-language guidance for images, charts, tables, forms, reading order, and remaining human checks. Review mixed folders and download document copies and reports together. Create HTML reading-copy drafts and compare them with your originals.
 
-## What it does
+OCR resources and a local image-description model are included for offline use. English, Spanish, French, and German OCR resources are bundled. Review every AI draft before using it.
 
-Your **original files are never changed.** For each PDF it writes a fixed copy
-plus an easy-to-read HTML report (what was fixed, what still needs a human) to
-an output folder.
+The **Desktop tools** menu opens the native PDF batch and Word/PowerPoint-to-PDF conversion tools. Microsoft Office is needed for its corresponding conversions. Native OCR requires its separate dependencies; the guided workspace has built-in OCR.
 
-Automatic fixes: document title and language; heading structure and bookmarks;
-real data-table headers with row/column scope; layout-table handling; empty
-"blank paragraph" cleanup; link descriptions; form-field labels.
+## Install or update
 
-Optional (tick the box): convert untagged PDFs to tagged (**needs Microsoft
-Word**), OCR scanned pages (**needs Tesseract + Ghostscript**), darken
-low-contrast text. Options that need software you don't have grey out by
-themselves.
+Run the installer and follow its prompts. For the portable edition, extract the ZIP and run **Accessibility Remediator.exe**, keeping the folder together. Existing v1.13 apps do not update themselves. Keep your document outputs and install this version, or extract the new ZIP into a separate folder.
 
-It does **not** use AI alt text, so there's nothing to sign up for. Describe
-images yourself using the review worksheet the app can produce.
+Requires Windows 10/11 x64. No Python, Adobe Acrobat, account, or API key is needed. This release is unsigned, so Windows may show an unrecognized-publisher message. Checksums are provided with the release.
 
-## What your PC needs
+## Privacy and review
 
-- **Most fixes:** nothing — it's all built in.
-- **Convert untagged PDFs:** Microsoft Word installed (most PCs have it).
-- **OCR scanned pages:** optional free tools (Tesseract + Ghostscript).
-- Windows 10 or 11.
+The guided workspace blocks external requests and keeps document work in temporary memory. It does not save or restore sessions. Download your work before closing. Native conversion tools write copies and reports to your selected folder. Office and the operating system may create their own temporary files.
 
-## Questions
+These tools help with accessibility work; they do not certify that every document is accessible. Review outputs in their intended reader and use an independent PDF validator. Native tools report when veraPDF is unavailable.
 
-Contact Page Durham (LearnAIID).
+## Mac beta and earlier versions
 
----
-*This repository hosts the downloadable app only. The source code lives in a
-separate private repository.*
+[Mac beta remains v1.13](https://github.com/BelovedCoachP/pdf-remediator-app/releases/tag/mac-beta-v1.13) and has not received the Windows upgrade. [Previous releases](https://github.com/BelovedCoachP/pdf-remediator-app/releases) remain available.
