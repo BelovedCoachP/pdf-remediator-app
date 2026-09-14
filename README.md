@@ -1,10 +1,10 @@
 # Accessibility Remediator for Windows
 
-Windows **2.0.0** includes a guided PDF and Microsoft Office accessibility workspace that runs offline, plus native Office-to-PDF conversion tools.
+Windows **2.0.1** includes a guided PDF and Microsoft Office accessibility workspace that runs offline, plus native Office-to-PDF conversion tools.
 
-- [Download Windows installer](https://github.com/BelovedCoachP/pdf-remediator-app/releases/download/app-v2.0.0/Accessibility-Remediator-2.0.0-x64.exe)
-- [Download portable ZIP](https://github.com/BelovedCoachP/pdf-remediator-app/releases/download/app-v2.0.0/Accessibility-Remediator-2.0.0-x64.zip)
-- [Release notes and checksums](https://github.com/BelovedCoachP/pdf-remediator-app/releases/tag/app-v2.0.0)
+- [Download Windows installer](https://github.com/BelovedCoachP/pdf-remediator-app/releases/download/app-v2.0.1/Accessibility-Remediator-2.0.1-x64.exe)
+- [Download portable ZIP](https://github.com/BelovedCoachP/pdf-remediator-app/releases/download/app-v2.0.1/Accessibility-Remediator-2.0.1-x64.zip)
+- [Release notes and checksums](https://github.com/BelovedCoachP/pdf-remediator-app/releases/tag/app-v2.0.1)
 - [Use the browser version](https://pdf-remediate.lovable.app/)
 
 ## What you can do
@@ -30,3 +30,4 @@ These tools help with accessibility work; they do not certify that every documen
 ## Mac beta and earlier versions
 
 [Mac beta remains v1.13](https://github.com/BelovedCoachP/pdf-remediator-app/releases/tag/mac-beta-v1.13) and has not received the Windows upgrade. [Previous releases](https://github.com/BelovedCoachP/pdf-remediator-app/releases) remain available.
+
