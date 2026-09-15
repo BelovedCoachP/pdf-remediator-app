@@ -1,11 +1,15 @@
 # Accessibility Remediator for Windows
 
-Windows **2.0.2** includes a guided PDF and Microsoft Office accessibility workspace that runs offline, plus native Office-to-PDF conversion tools.
+Windows **2.1.0** includes a guided PDF and Microsoft Office accessibility workspace that runs offline, plus native Office-to-PDF conversion tools.
 
-- [Download Windows installer](https://github.com/BelovedCoachP/pdf-remediator-app/releases/download/app-v2.0.2/Accessibility-Remediator-2.0.2-x64.exe)
-- [Download portable ZIP](https://github.com/BelovedCoachP/pdf-remediator-app/releases/download/app-v2.0.2/Accessibility-Remediator-2.0.2-x64.zip)
-- [Release notes and checksums](https://github.com/BelovedCoachP/pdf-remediator-app/releases/tag/app-v2.0.2)
+- [Download Windows installer](https://github.com/BelovedCoachP/pdf-remediator-app/releases/download/app-v2.1.0/Accessibility-Remediator-2.1.0-x64.exe)
+- [Download portable ZIP](https://github.com/BelovedCoachP/pdf-remediator-app/releases/download/app-v2.1.0/Accessibility-Remediator-2.1.0-x64.zip)
+- [Release notes and checksums](https://github.com/BelovedCoachP/pdf-remediator-app/releases/tag/app-v2.1.0)
 - [Use the browser version](https://pdf-remediate.lovable.app/)
+
+## New in Windows 2.1.0
+
+Review per-cell PDF table headers with recheck and undo, confirm formatting-only table conversion, remove verified empty containers conservatively, prepare reviewed chart companion HTML, and retain readable files when individual folder items fail. AI descriptions remain human-reviewed drafts.
 
 ## What you can do
 
@@ -17,9 +21,9 @@ The **Desktop tools** menu opens the native PDF batch and Word/PowerPoint-to-PDF
 
 ## Install or update
 
-Run the installer and follow its prompts. For the portable edition, extract the ZIP and run **Accessibility Remediator.exe**, keeping the folder together. Existing v1.13 apps do not update themselves. Keep your document outputs and install this version, or extract the new ZIP into a separate folder.
+Run the installer and follow its prompts. For the portable edition, extract the ZIP and run **Accessibility Remediator.exe**, keeping the folder together. Existing copies do not update themselves. Keep your document outputs and install this version, or extract the new ZIP into a separate folder.
 
-Requires Windows 10/11 x64. No Python, Adobe Acrobat, account, or API key is needed. This release is unsigned, so Windows may show an unrecognized-publisher message. Checksums are provided with the release.
+Requires Windows 10/11 x64. No Python installation, account, or API key is needed. This release is unsigned, so Windows may show an unrecognized-publisher message. Checksums are provided with the release.
 
 ## Privacy and review
 
@@ -29,4 +33,4 @@ These tools help with accessibility work; they do not certify that every documen
 
 ## Mac beta and earlier versions
 
-Earlier Windows and Mac downloads are temporarily unavailable during release review. Use Windows 2.0.2; a current Mac installer is not available.
+Earlier Windows and Mac downloads are temporarily unavailable during release review. Use Windows 2.1.0; a current Mac installer is not available.
