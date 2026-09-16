@@ -1,5 +1,18 @@
 # Accessibility Remediator for Windows
 
+## License and permitted use
+
+Copyright (c) 2026 LearnAIID, LLC. LearnAIID-owned material is covered by the
+[Free-Use Proprietary License](LICENSE). Official applications may be used free
+for personal, educational, and business work, including paid document-remediation
+services. Internal deployment of unchanged official builds is permitted.
+Reselling, rebranding, embedding, or externally redistributing LearnAIID's
+proprietary application/code requires separate permission. Your documents and
+outputs are not subject to those application resale restrictions.
+Third-party components retain their own licenses and rights. This is not an
+open-source license. These repository terms do not replace existing release
+assets or withdraw previously granted permissions.
+
 Windows **2.1.0** includes a guided PDF and Microsoft Office accessibility workspace that runs offline, plus native Office-to-PDF conversion tools.
 
 - [Download Windows installer](https://github.com/BelovedCoachP/pdf-remediator-app/releases/download/app-v2.1.0/Accessibility-Remediator-2.1.0-x64.exe)

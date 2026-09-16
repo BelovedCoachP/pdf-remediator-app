@@ -1,0 +1,75 @@
+LearnAIID Accessibility Remediator Free-Use Proprietary License
+Version 1.0 - September 16, 2026
+
+Copyright (c) 2026 LearnAIID, LLC. All rights reserved except as expressly granted below.
+
+1. Scope and ownership
+
+This license applies only to the Accessibility Remediator code, documentation,
+and other material in which LearnAIID, LLC holds the applicable rights (the
+"LearnAIID Material"). It is a proprietary license, not an open-source license.
+It does not claim ownership of third-party material, public-domain material,
+your documents, or rights that LearnAIID does not hold.
+
+2. Free use of official applications
+
+LearnAIID grants individuals and organizations a nonexclusive, worldwide,
+royalty-free license to access and run its official browser application and to
+download, install, run, and make backup copies of its official Windows builds.
+Personal, educational, nonprofit, government, and business use are permitted,
+including using the application to provide paid document-remediation services.
+Organizations may copy unchanged official builds internally for their staff,
+retaining these terms and all applicable notices.
+
+This permission includes the incidental copying of application code needed for
+normal operation. It does not grant a general source-code reuse license.
+There is no license fee for these permitted uses of versions offered under
+these terms. Future products or services may have separate terms; a later
+change does not retroactively revoke this grant for a compliant user.
+
+3. Documents and output
+
+LearnAIID claims no ownership of your input documents or your document content
+in outputs. You may use, modify, share, and sell your outputs without payment
+to LearnAIID, subject to any rights others hold in their contents. These terms
+do not authorize document uploads, collection, or new data processing.
+
+4. Rights reserved
+
+Except for the permissions above, applicable law, third-party licenses, or a
+separate written agreement with LearnAIID, you may not copy, modify, distribute,
+sublicense, sell, rent, rebrand, or embed the LearnAIID Material in another
+product, or operate a separately hosted copy of the application for others.
+Separate written permission is required to redistribute the application
+outside your organization, including modified copies. Sharing links to official
+downloads is permitted. No trademark license or endorsement is granted.
+No source-development rights are granted merely by access to a repository;
+separate contributor or development authorization may grant those rights.
+
+5. Third-party rights and legal exceptions
+
+Third-party libraries, models, fonts, tools, and other components retain their
+own licenses and notices. Those licenses control for their covered material
+and take precedence over any conflicting restriction here. Nothing here limits
+rights to obtain source, modify, replace, relink, reverse-engineer for debugging
+modifications, or redistribute components where their licenses grant those
+rights. Preserve the applicable third-party notices. Nothing here restricts
+rights that cannot lawfully be restricted, applicable copyright exceptions,
+or permissions already granted under another applicable license. Code-hosting
+platform rights, including viewing and forking where required by platform
+terms, remain unaffected. This license does not withdraw earlier permissions.
+
+6. No warranty
+
+To the extent permitted by law, the software and documentation are provided
+"AS IS", without warranties, including merchantability, fitness for a
+particular purpose, or noninfringement. Automated findings and repairs do not
+guarantee accessibility or legal compliance. AI descriptions require human
+review. You remain responsible for reviewing outputs for your intended use.
+
+7. Limitation of liability
+
+To the extent permitted by law, LearnAIID, LLC is not liable for damages arising
+from use of or inability to use the software, including loss of data, profits,
+or business, or indirect, incidental, special, or consequential damages.
+Nothing excludes liability or consumer rights that cannot lawfully be excluded.
